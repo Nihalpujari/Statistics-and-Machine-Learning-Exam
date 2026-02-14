@@ -198,28 +198,27 @@ High AUC even with noisy data.
 - Seaborn  
 
 ---
+## 👥 Authors
+
+- Namrata Bhoyar
+- Nihal Pujari
+- Anuj Kamble
+- Gourav Somanna
+- Pramodkumar Shivanna
 
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Nihalpujari/Statistics-and-Machine-Learning-Exam
-Open jupyter ntoebook
-load the dataset
-run the code
+git clone https://github.com/Nihalpujari/Statistics-and-Machine-Learning-Exam.git
+3️⃣ Run the Notebook
 
+Open Jupyter Notebook
 
-### 👥 Authors
+Load the dataset
 
-Namrata Bhoyar
+Run all cells
 
-Nihal Pujari
-
-Anuj Kamble
-
-Gourav Somanna
-
-Pramodkumar Shivanna
 
 
