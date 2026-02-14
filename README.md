@@ -198,6 +198,7 @@ High AUC even with noisy data.
 - Seaborn  
 
 ---
+
 ## 👥 Authors
 
 - Namrata Bhoyar
@@ -205,6 +206,7 @@ High AUC even with noisy data.
 - Anuj Kamble
 - Gourav Somanna
 - Pramodkumar Shivanna
+  
 
 ## ▶️ How to Run the Project
 
