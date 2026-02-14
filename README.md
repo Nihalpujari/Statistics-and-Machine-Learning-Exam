@@ -204,4 +204,22 @@ High AUC even with noisy data.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nihalpujari/Statistics-and-Machine-Learning-Exam
+Open jupyter ntoebook
+load the dataset
+run the code
+
+
+### 👥 Authors
+
+Namrata Bhoyar
+
+Nihal Pujari
+
+Anuj Kamble
+
+Gourav Somanna
+
+Pramodkumar Shivanna
+
+
